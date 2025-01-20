@@ -14,7 +14,7 @@ Có lẽ flag đã được giấu trong một hàm print nào đó thử kiểm
 (ảnh)
 Sau khi nhập print vào phần tìm kiếm phát hiện một func có thể chứa flag real : printflag
 (ảnh)
-Step-4z;
+Step-4:
 Sau khi chuyển đoạn code C này sang python và chạy ta nhận được flag:
 (code python)
 KCSC{you_can't_see_me:v}
