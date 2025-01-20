@@ -8,6 +8,8 @@ https://github.com/th2anhqy3t/KCSC-writeup/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%
 Step-2:
 Sử dụng Ghidra để phân tích file chal.exe
 Kiểm tra phần string thì phát hiện một chuỗi kí tự "where í the print flag function??"
+![image](https://github.com/user-attachments/assets/74f55436-20db-478d-9d6d-bdba9e0b76fe)
+
 (ảnh)
 Step-3:
 Có lẽ flag đã được giấu trong một hàm print nào đó thử kiểm tra:
