@@ -13,7 +13,9 @@ Kiểm tra phần string thì phát hiện một chuỗi kí tự "where is the 
 Step-3:
 Có lẽ flag đã được giấu trong một hàm print nào đó thử kiểm tra:
 Sau khi nhập print vào phần tìm kiếm phát hiện một func có thể chứa flag real : printflag
-(ảnh)
+![image](https://github.com/user-attachments/assets/c04c4c59-2e74-42b1-9197-1562972fa907)
+
+
 
 Step-4:
 Sau khi chuyển đoạn code C này sang python và chạy ta nhận được flag:
