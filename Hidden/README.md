@@ -13,8 +13,10 @@ Kiểm tra phần string thì phát hiện một chuỗi kí tự "where is the 
 Step-3:
 Có lẽ flag đã được giấu trong một hàm print nào đó thử kiểm tra:
 Sau khi nhập print vào phần tìm kiếm phát hiện một func có thể chứa flag real : printflag
+
 ![image](https://github.com/user-attachments/assets/c04c4c59-2e74-42b1-9197-1562972fa907)
 
+![image](https://github.com/user-attachments/assets/d426f97e-48e6-4d5a-8708-a4af57cdd054)
 
 
 Step-4:
