@@ -22,5 +22,21 @@ Sau khi nhập print vào phần tìm kiếm phát hiện một func có thể c
 Step-4:
 Sau khi chuyển đoạn code C này sang python và chạy ta nhận được flag:
 (code python)
+.
+def solve():
+    acStack_28 = [
+        -0x3d, -0x35, -0x25, -0x35, -0xd, -0xf, -0x19, -3, -0x29, -0x15, -0x17, -0x1a,
+        -0x51, -4, -0x29, -5, -0x13, -0x13, -0x29, -0x1b, -0x13, -0x4e, -2, -0xb
+    ]
+
+    result = ""
+    for byte in acStack_28:
+      result += chr((byte ^ 0x88) & 0xFF) #Sửa lỗi tại đây
+    print(result)
+
+if __name__ == "__main__":
+    solve()
+
+.
 KCSC{you_can't_see_me:v}
 
