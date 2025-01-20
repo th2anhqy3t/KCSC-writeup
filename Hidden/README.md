@@ -32,7 +32,7 @@ Sau khi chuyển đoạn code C này sang python và chạy ta nhận được f
 
     result = ""
     for byte in acStack_28:
-      result += chr((byte ^ 0x88) & 0xFF) #Sửa lỗi tại đây
+      result += chr((byte ^ 0x88) & 0xFF) 
     print(result)
 
     solve()
